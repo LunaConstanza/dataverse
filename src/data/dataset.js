@@ -1,378 +1,314 @@
 export default [
   {
-    "id": "ada-lovelace",
-    "name": "Ada Lovelace",
-    "shortDescription": "Pionera en la programación, primera programadora de la historia.",
-    "description": "Una visionaria matemática británica del siglo XIX, es aclamada como la primera programadora de la historia. Su colaboración con Charles Babbage en la creación de la Máquina Analítica la llevó a desarrollar algoritmos, incluyendo el famoso \"algoritmo de Bernoulli\", destinados a ser procesados por una máquina. Su visión pionera la convirtió en una figura fundamental en la informática y la inteligencia artificial. Lovelace demostró que las computadoras podían ir más allá de simples cálculos matemáticos, anticipando un mundo donde la programación sería esencial en la resolución de problemas complejos, dejando una huella imborrable en la ciencia y la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/ada-lovelace.jpg",
+    "id": "robert-baden-powell",
+    "name": "Robert Baden-Powell",
+    "shortDescription": "Fundador del Movimiento Scout",
+    "description": "Robert Baden-Powell fue un militar, escritor y fundador del Movimiento Scout en 1907. Su trabajo y visión dieron origen a la organización mundial de los Scouts.",
+    "imageUrl": "https://collectionimages.npg.org.uk/large/mw76072/Robert-Baden-Powell.jpg",
     "facts": {
-      "yearOfBirth": "1815",
-      "yearOfDeath": "1852",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
+      "yearOfBirth": 1857,
+      "placeOfBirth": "Londres, Inglaterra",
+      "mainPosition": "Fundador del Movimiento Scout",
+      "sexo": "Masculino"
     }
   },
   {
-    "id": "emmy-noether",
-    "name": "Emmy Noether",
-    "shortDescription": "Matemática destacada, teorema fundamental en álgebra abstracta.",
-    "description": "Una brillante matemática alemana, revolucionó la física teórica con sus contribuciones al teorema de conservación de la energía y el teorema de Noether, fundamentales en la teoría de la relatividad y la mecánica cuántica. A pesar de los obstáculos que enfrentó como mujer en la academia, sus investigaciones en álgebra abstracta y teoría de grupos son fundamentales en la física moderna. Su capacidad para unificar conceptos matemáticos y físicos marcó un hito en la historia de la ciencia, allanando el camino para futuras generaciones de científicas.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/emmy-noether.jpg",
+    "id": "agatha-baden-powell",
+    "name": "Agnes Baden-Powell",
+    "shortDescription": "Fundadora de las Guías Scouts",
+    "description": "Agnes Baden-Powell fue la hermana de Robert Baden-Powell y jugó un papel fundamental en la creación del movimiento de las Guías Scouts. Fue la primera Jefa Mundial de las Guías Scouts.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Agnes_Baden-Powell.jpg/220px-Agnes_Baden-Powell.jpg",
     "facts": {
-      "yearOfBirth": "1882",
-      "yearOfDeath": "1935",
-      "birthPlace": "Erlangen, Alemania",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
+      "yearOfBirth": 1858,
+      "placeOfBirth": "Londres, Inglaterra",
+      "mainPosition": "Fundadora de las Guías Scouts",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "hypatia-de-alejandria",
-    "name": "Hypatia de Alejandría",
-    "shortDescription": "Matemática y filósofa en la antigua Alejandría.",
-    "description": "Filósofa y matemática en la antigua Alejandría, desafió las normas de género de su época al destacar en una sociedad dominada por hombres. Su legado incluye importantes contribuciones a la geometría y la astronomía, así como su destacado papel como maestra y defensora del conocimiento en una época de agitación política. Hypatia demostró que las mujeres podían sobresalir en campos intelectuales y su valentía al mantener sus creencias filosóficas la convierte en un símbolo de resistencia y sabiduría en la historia de la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hypatia-de-alejandria.jpg",
+    "id": "lady-olave-baden-powell",
+    "name": "Lady Olave Baden-Powell",
+    "shortDescription": "Jefa Mundial de las Guías Scouts",
+    "description": "Lady Olave Baden-Powell fue la esposa de Robert Baden-Powell y desempeñó un papel fundamental como Jefa Mundial de las Guías Scouts. Contribuyó significativamente al desarrollo del movimiento de las Guías Scouts.",
+    "imageUrl": "https://collectionimages.npg.org.uk/large/mw85731/Olave-St-Clair-Baden-Powell-ne-Soames-Lady-Baden-Powell.jpg",
     "facts": {
-      "yearOfBirth": "circa 360",
-      "yearOfDeath": "415",
-      "birthPlace": "Alejandría, Egipto",
-      "mainField": "Matemáticas, Filosofía"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
+      "yearOfBirth": 1889,
+      "placeOfBirth": "Inglaterra",
+      "mainPosition": "Jefa Mundial de las Guías Scouts",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "marjorie-lee-browne",
-    "name": "Marjorie Lee Browne",
-    "shortDescription": "Matemática, contribuyó a la teoría de números.",
-    "description": "Matemática estadounidense, destacó en una época en la que las mujeres afroamericanas enfrentaban múltiples barreras en la educación superior. No solo obtuvo su doctorado en matemáticas, sino que también se convirtió en una destacada educadora, promoviendo la diversidad en las ciencias matemáticas y desafiando la discriminación racial y de género. Su compromiso con la educación y su capacidad para inspirar a futuras generaciones la convierten en un modelo a seguir para las mujeres en la ciencia, dejando una huella perdurable en la historia académica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjorie-lee-browne.jpg",
+    "id": "baden-baden-powell",
+    "name": "Baden Baden-Powell",
+    "shortDescription": "Hermano de Robert Baden-Powell",
+    "description": "Lord Robert Baden-Powell, conocido como Baden, fue el hermano de Robert Baden-Powell y brindó apoyo a su hermano en el desarrollo del Movimiento Scout y de las Guías Scouts.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Baden_Baden-Powell.jpg",
     "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "1979",
-      "birthPlace": "Memphis, Estados Unidos",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/design-an-inspiring-and-historically-accurate-imag/6510df7e7bb745f69d67f695441607a8"
+      "yearOfBirth": 1858,
+      "placeOfBirth": "Londres, Inglaterra",
+      "mainPosition": "Apoyo al Movimiento Scout",
+      "sexo": "Masculino"
     }
   },
   {
-    "id": "shakuntala-devi",
-    "name": "Shakuntala Devi",
-    "shortDescription": "Matemática prodigio, conocida como la 'Calculadora Humana'.",
-    "description": "Conocida como \"la bruja de las matemáticas\" de la India, dejó una marca indeleble en el mundo de los números. Su capacidad mental asombrosa la llevó a resolver complejos cálculos matemáticos mentalmente en cuestión de segundos, estableciendo récords mundiales. Además de su talento innato, Devi promovió activamente la educación matemática y luchó por la igualdad de género en un país donde las mujeres enfrentaban desafíos en la ciencia y la educación. Su legado destaca el poder de la mente humana y la importancia de la igualdad de oportunidades en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shakuntala-devi.jpg",
+    "id": "juliette-gordon-low",
+    "name": "Juliette Gordon Low",
+    "shortDescription": "Fundadora de las Girl Scouts en Estados Unidos",
+    "description": "Juliette Gordon Low fue la fundadora de las Girl Scouts en los Estados Unidos y desempeñó un papel crucial en la promoción del movimiento de las Guías Scouts en Norteamérica.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Jgl-with-fish-e1394654054980.jpg",
     "facts": {
-      "yearOfBirth": "1929",
-      "yearOfDeath": "2013",
-      "birthPlace": "Bangalore, India",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "yearOfBirth": 1860,
+      "placeOfBirth": "Savannah, Georgia, Estados Unidos",
+      "mainPosition": "Fundadora de las Girl Scouts",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "sofia-kovalevskaya",
-    "name": "Sofia Kovalevskaya",
-    "shortDescription": "Matemática y escritora, contribuyó a la teoría de funciones.",
-    "description": "Matemática rusa del siglo XIX, dejó una marca indeleble en la ciencia del siglo XIX al desafiar las barreras de género. Como matemática rusa, superó las restricciones sociales de su época para convertirse en la primera mujer en obtener un doctorado en matemáticas en Europa. Sus contribuciones a la teoría de las ecuaciones diferenciales y la mecánica revolucionaron la disciplina, abriendo nuevas perspectivas en el análisis matemático. Su destacada membresía en la Academia de Ciencias de Suecia marcó un hito en la historia de las mujeres en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sofia-kovalevskaya.jpg",
+    "id": "archibald-hill",
+    "name": "Archibald Hill",
+    "shortDescription": "Líder Scout y científico",
+    "description": "Archibald Hill fue un destacado científico y líder Scout británico. Contribuyó al desarrollo del Movimiento Scout y dejó un legado en la ciencia y el liderazgo juvenil.",
+    "imageUrl": "https://cdn.britannica.com/47/161847-050-6D58A08E/Otto-Meyerhof.jpg",
     "facts": {
-      "yearOfBirth": "1850",
-      "yearOfDeath": "1891",
-      "birthPlace": "Moscú, Rusia",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "yearOfBirth": 1886,
+      "placeOfBirth": "Bristol, Inglaterra",
+      "mainPosition": "Líder Scout y científico",
+      "sexo": "Masculino"
     }
   },
   {
-    "id": "yoko-shimomura",
-    "name": "Yoko Shimomura",
-    "shortDescription": "Compositora de música, destacada en la industria de los videojuegos.",
-    "description": "Compositora japonesa, es una figura destacada en la ciencia de la música y el arte sonoro. Aunque no se dedica a la ciencia en el sentido tradicional, su trabajo en la composición musical ha requerido un profundo entendimiento de la teoría musical y la tecnología de audio. Ha contribuido de manera significativa a la industria de los videojuegos, componiendo icónicas bandas sonoras que han enriquecido la experiencia de juego. Su éxito en un campo donde las mujeres estaban subrepresentadas la convierte en un modelo a seguir, incluso en campos no convencionales como la composición musical.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/yoko-shimomura.jpg",
+    "id": "b-p-subedar",
+    "name": "B.P. Subedar",
+    "shortDescription": "Scout y líder en la India",
+    "description": "B.P. Subedar fue un destacado Scout y líder en la India. Jugó un papel importante en la expansión del escultismo en el subcontinente indio.",
+    "imageUrl": "URL_DE_LA_IMAGEN_BP_SUBEDAR",
     "facts": {
-      "yearOfBirth": "1967",
-      "birthPlace": "Hyogo, Japón",
-      "mainField": "Composición Musical, Video Juegos"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/yoko-shimomura-making-music-for-a-video-game-in-19/6510e40dd1eb45d0906e8c1f4bb601d3"
+      "yearOfBirth": 1890,
+      "placeOfBirth": "India",
+      "mainPosition": "Scout y líder en la India",
+      "sexo": "Masculino"
     }
   },
   {
-    "id": "maryam-mirzakhani",
-    "name": "Maryam Mirzakhani",
-    "shortDescription": "Matemática, ganadora del Premio Fields.",
-    "description": "Matemática iraní, hizo historia al convertirse en la primera mujer en ganar la Medalla Fields, el premio más prestigioso en matemáticas. Sus investigaciones en la geometría de superficies y la teoría de las superficies de Riemann han tenido un impacto duradero en la matemática pura. A lo largo de su carrera, Mirzakhani inspiró a muchas mujeres a perseguir carreras en ciencia y matemáticas, derribando las barreras de género. Su enfoque innovador y su capacidad para resolver problemas complejos la convierten en un modelo a seguir para la comunidad científica y en un símbolo de la excelencia matemática.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maryam-mirzakhani.jpg",
+    "id": "lady-betty-clay",
+    "name": "Lady Betty Clay",
+    "shortDescription": "Líder en el Movimiento Scout y las Guías Scouts",
+    "description": "Lady Betty Clay fue una líder destacada en el Movimiento Scout y las Guías Scouts en el Reino Unido. Contribuyó al desarrollo del escultismo y del movimiento guía.",
+    "imageUrl": "URL_DE_LA_IMAGEN_LADY_BETTY",
     "facts": {
-      "yearOfBirth": "1977",
-      "yearOfDeath": "2017",
-      "birthPlace": "Teherán, Irán",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://chalkdustmagazine.com/features/mathematics-maryam-mirzakhani/"
+      "yearOfBirth": 1909,
+      "placeOfBirth": "Reino Unido",
+      "mainPosition": "Líder en el Movimiento Scout y las Guías Scouts",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "adele-goldberg",
-    "name": "Adele Goldberg",
-    "shortDescription": "Informática pionera, co-creadora del lenguaje de programación Smalltalk.",
-    "description": "Informática estadounidense reconocida por su influyente trabajo en la investigación y desarrollo de la programación orientada a objetos. Su contribución más destacada es la creación del lenguaje de programación Smalltalk, que revolucionó la forma en que se desarrollan software y sistemas informáticos. Goldberg ha sido una defensora incansable de la usabilidad y la accesibilidad en la informática, asegurando que las aplicaciones informáticas sean más amigables para los usuarios. Su trabajo ha allanado el camino para una programación más intuitiva y eficiente, y su legado perdura en la industria de la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/adele-goldberg.jpg",
+    "id": "lord-michael-baden-powell",
+    "name": "Lord Michael Baden-Powell",
+    "shortDescription": "Hijo de Robert Baden-Powell",
+    "description": "Lord Michael Baden-Powell, hijo de Robert Baden-Powell, continuó el legado de su padre en el Movimiento Scout y en las Guías Scouts. Desempeñó un papel importante en la promoción de ambos movimientos.",
+    "imageUrl": "URL_DE_LA_IMAGEN_LORD_MICHAEL",
     "facts": {
-      "yearOfBirth": "1945",
-      "birthPlace": "Chicago, Estados Unidos",
-      "mainField": "Ciencias de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://pionerasinformaticas.ujaen.es/en/computer-women-pioneers/adele-goldberg-en"
+      "yearOfBirth": 1910,
+      "placeOfBirth": "Inglaterra",
+      "mainPosition": "Continuador del legado Scout",
+      "sexo": "Masculino"
     }
   },
   {
-    "id": "barbara-liskov",
-    "name": "Barbara Liskov",
-    "shortDescription": "Científica de la computación, pionera en programación orientada a objetos.",
-    "description": "Pionera de la informática, es conocida por su trabajo en la programación y la arquitectura de sistemas distribuidos. Fue la primera mujer en obtener un doctorado en ciencias de la computación en el Instituto de Tecnología de Stanford y desarrolló el lenguaje de programación CLU, que estableció fundamentos para la programación orientada a objetos. Liskov ha dejado una marca indeleble en la industria de la tecnología al liderar avances en sistemas de almacenamiento y seguridad informática. Su enfoque en la fiabilidad y la robustez ha influido en el diseño de sistemas críticos en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/barbara-liskov.jpg",
+    "id": "lady-betty-baden-powell",
+    "name": "Lady Betty Baden-Powell",
+    "shortDescription": "Nieta de Robert Baden-Powell",
+    "description": "Lady Betty Baden-Powell, nieta de Robert Baden-Powell, siguió la tradición familiar y desempeñó un papel relevante en el Movimiento Scout y las Guías Scouts.",
+    "imageUrl": "URL_DE_LA_IMAGEN_LADY_BETTY",
     "facts": {
-      "yearOfBirth": "1939",
-      "birthPlace": "Los Angeles, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86"
+      "yearOfBirth": 1917,
+      "placeOfBirth": "Inglaterra",
+      "mainPosition": "Continuadora del legado Scout",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "grace-hopper",
-    "name": "Grace Hopper",
-    "shortDescription": "Científica de la computación, creadora del primer compilador.",
-    "description": "Una de las pioneras de la informática, es famosa por su contribución al desarrollo del primer compilador y al lenguaje de programación COBOL. Además, desafió los estereotipos de género en la década de 1940 al unirse a la Marina de los Estados Unidos y convertirse en la primera programadora de la computadora Harvard Mark I. Su legado abarca la creación de conceptos cruciales como la \"depuración de software\" y su influencia en el desarrollo de la informática moderna, estableciendo estándares para la programación de alto nivel y la innovación tecnológica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/grace-hopper.jpg",
+    "id": "mollie-campbell",
+    "name": "Mollie Campbell",
+    "shortDescription": "Destacada líder de las Guías Scouts",
+    "description": "Mollie Campbell fue una líder destacada en el movimiento de las Guías Scouts. Contribuyó a la promoción y desarrollo de las Guías Scouts en el Reino Unido.",
+    "imageUrl": "URL_DE_LA_IMAGEN_MOLLIE",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1992",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://photos.com/featured/grace-hopper-with-early-computer-bettmann.html"
+      "yearOfBirth": 1905,
+      "placeOfBirth": "Reino Unido",
+      "mainPosition": "Líder de las Guías Scouts",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "margaret-hamilton",
-    "name": "Margaret Hamilton",
-    "shortDescription": "Científica de la computación, lideró desarrollo de software para Apollo 11.",
-    "description": "Destacada científica de la computación que desempeñó un papel fundamental en el programa Apollo de la NASA. Fue directora de la División de Ingeniería de Software en el Laboratorio de Instrumentación del MIT, donde desarrolló el concepto de \"ingeniería de software\". Su liderazgo en el desarrollo del software de vuelo para las misiones Apollo fue fundamental para el éxito de la llegada del hombre a la Luna. Hamilton es un ejemplo de cómo la tecnología y la ciencia pueden alcanzar logros extraordinarios cuando se combinan con un enfoque innovador y una visión audaz.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/margaret-hamilton.jpg",
+    "id": "ernest-weston",
+    "name": "Ernest Weston",
+    "shortDescription": "Fundador de los Scouts en México",
+    "description": "Ernest Weston fue un pionero en la introducción del Movimiento Scout en México y desempeñó un papel esencial en su desarrollo en el país.",
+    "imageUrl": "URL_DE_LA_IMAGEN_ERNEST",
     "facts": {
-      "yearOfBirth": "1936",
-      "birthPlace": "Paoli, Indiana, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://odetta.ai/blogs/margaret-hamilton-the-first-software-engineer"
+      "yearOfBirth": 1887,
+      "placeOfBirth": "Reino Unido",
+      "mainPosition": "Fundador de los Scouts en México",
+      "sexo": "Masculino"
     }
   },
   {
-    "id": "radia-perlman",
-    "name": "Radia Perlman",
-    "shortDescription": "Ingeniera de redes, inventora del algoritmo Spanning Tree.",
-    "description": "Científica de la computación estadounidense, ha dejado una marca indeleble en el mundo de las redes informáticas y la seguridad. Conocida como \"la madre de Internet\", su invención del algoritmo Spanning Tree Protocol (STP) revolucionó la conectividad de redes y sentó las bases para la infraestructura de Internet moderna. A pesar de operar en un campo dominado por hombres, Perlman ha demostrado que las mujeres pueden liderar avances tecnológicos vitales. Su compromiso con la resiliencia de las redes y la ciberseguridad ha influido en la estabilidad y confiabilidad de la comunicación en línea.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/radia-perlman.jpg",
+    "id": "mary-guillemard",
+    "name": "Mary Guillemard",
+    "shortDescription": "Destacada líder en el Movimiento Scout y Guías Scouts",
+    "description": "Mary Guillemard fue una líder destacada en el Movimiento Scout y Guías Scouts en el Reino Unido. Contribuyó al desarrollo de ambos movimientos juveniles.",
+    "imageUrl": "URL_DE_LA_IMAGEN_MARY",
     "facts": {
-      "yearOfBirth": "1951",
-      "birthPlace": "Portsmouth, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://hackaday.com/2018/05/29/spanning-the-tree-dr-radia-perlman-untangling-networks/"
+      "yearOfBirth": 1888,
+      "placeOfBirth": "Reino Unido",
+      "mainPosition": "Líder en el Movimiento Scout y Guías Scouts",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "shafi-goldwasser",
-    "name": "Shafi Goldwasser",
-    "shortDescription": "Científica de la computación, ganadora del Premio Turing.",
-    "description": "Es una destacada criptógrafa y científica de la computación que ha contribuido significativamente a la teoría de la computación y la seguridad de la información. Su trabajo en criptografía de probabilidad y complejidad computacional ha sentado las bases para la seguridad en línea y la privacidad de datos en un mundo cada vez más digitalizado. Goldwasser es un ejemplo de cómo la ciencia de la computación puede abordar desafíos contemporáneos y proteger la información en la era de la información.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shafi-goldwasser.jpg",
+    "id": "lady-rosemary-baden-powell",
+    "name": "Lady Rosemary Baden-Powell",
+    "shortDescription": "Hija de Robert Baden-Powell",
+    "description": "Lady Rosemary Baden-Powell, hija de Robert Baden-Powell, continuó la tradición scout de su familia y desempeñó un papel importante en el Movimiento Scout y las Guías Scouts.",
+    "imageUrl": "URL_DE_LA_IMAGEN_LADY_ROSEMARY",
     "facts": {
-      "yearOfBirth": "1958",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.jahresbericht2019.unibe.ch/successes_2019/einstein_lectures/index_eng.html"
+      "yearOfBirth": 1917,
+      "placeOfBirth": "Inglaterra",
+      "mainPosition": "Continuadora del legado Scout",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "chien-shiung-wu",
-    "name": "Chien-Shiung Wu",
-    "shortDescription": "Física experimental, contribuyó a la física nuclear.",
-    "description": "Física experimental de origen chino, desafiando los prejuicios de género y nacionalidad, realizó experimentos fundamentales en física de partículas y contribuyó significativamente a la comprensión de la desintegración beta. Su famoso experimento \"Wu\" refutó la paridad en la física de partículas, lo que cambió la forma en que los científicos comprenden las fuerzas fundamentales de la naturaleza. Wu demostró que el talento y la perseverancia pueden superar cualquier barrera, y su legado sigue siendo un faro de inspiración para científicas en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/chien-shiung-wu.jpg",
+    "id": "juan-croce",
+    "name": "Juan Croce",
+    "shortDescription": "Líder Scout en América Latina",
+    "description": "Juan Croce fue un líder destacado en el Movimiento Scout en América Latina y desempeñó un papel importante en su promoción y desarrollo en la región.",
+    "imageUrl": "URL_DE_LA_IMAGEN_JUAN",
     "facts": {
-      "yearOfBirth": "1912",
-      "yearOfDeath": "1997",
-      "birthPlace": "Liuhe, Taicang, China",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.thoughtco.com/chien-shiung-wu-biography-3530366"
+      "yearOfBirth": 1901,
+      "placeOfBirth": "Argentina",
+      "mainPosition": "Líder Scout en América Latina",
+      "sexo": "Masculino"
     }
   },
   {
-    "id": "hedy-lamarr",
-    "name": "Hedy Lamarr",
-    "shortDescription": "Actriz e inventora, contribuyó al desarrollo de la tecnología de espectro ensanchado.",
-    "description": "Actriz austroamericana y científica, fue una mente brillante en la intersección de la tecnología y el entretenimiento. Junto con el compositor George Antheil, inventó un sistema de comunicación secreta durante la Segunda Guerra Mundial que sentó las bases para la tecnología de espectro ensanchado y la comunicación inalámbrica moderna. Lamarr demostró que las mujeres pueden destacar tanto en el cine como en la ciencia, y su legado como inventora ha sido fundamental para el desarrollo de la tecnología de comunicación inalámbrica que usamos en la actualidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hedy-lamarr.jpg",
+    "id": "grace-motley",
+    "name": "Grace Motley",
+    "shortDescription": "Defensora del Movimiento Scout y Guías Scouts",
+    "description": "Grace Motley fue una defensora destacada del Movimiento Scout y Guías Scouts en el Reino Unido. Contribuyó a la promoción y desarrollo de ambos movimientos.",
+    "imageUrl": "URL_DE_LA_IMAGEN_GRACE",
     "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "2000",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Actuación, Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.sparkfun.com/news/6147"
+      "yearOfBirth": 1909,
+      "placeOfBirth": "Reino Unido",
+      "mainPosition": "Defensora del Movimiento Scout y Guías Scouts",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "maria-goeppert-mayer",
-    "name": "Maria Goeppert Mayer",
-    "shortDescription": "Física teórica, ganadora del Premio Nobel de Física.",
-    "description": "Física teórica alemana-estadounidense, dejó una profunda huella en la física nuclear y la mecánica cuántica. Fue la segunda mujer en recibir el Premio Nobel de Física y su trabajo pionero en la estructura de capas nucleares revolucionó nuestra comprensión de los núcleos atómicos. A pesar de las barreras de género en la academia, su dedicación y talento la llevaron a contribuir significativamente a la teoría nuclear, abriendo el camino para futuras investigadoras en un campo dominado por hombres. Maria Goeppert Mayer es un ejemplo inspirador de excelencia científica y perseverancia en la búsqueda del conocimiento.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maria-goeppert-mayer.jpg",
+    "id": "john-hargrave",
+    "name": "John Hargrave",
+    "shortDescription": "Escritor y promotor del escultismo",
+    "description": "John Hargrave, conocido como Lord Baden-Powell, Jr., fue un escritor y promotor apasionado del escultismo en el Reino Unido y más allá.",
+    "imageUrl": "URL_DE_LA_IMAGEN_JOHN",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1972",
-      "birthPlace": "Kattowitz, Alemania",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.wsemexhibit.org/maria-goeppert-mayer.html"
+      "yearOfBirth": 1894,
+      "placeOfBirth": "Reino Unido",
+      "mainPosition": "Escritor y promotor del escultismo",
+      "sexo": "Masculino"
     }
   },
   {
-    "id": "lise-meitner",
-    "name": "Lise Meitner",
-    "shortDescription": "Física nuclear, contribuyó a la teoría de la fisión nuclear.",
-    "description": "Física austriaca-sueca, dejó un legado imborrable en la física nuclear y la radioquímica. A pesar de enfrentar obstáculos de género en una era dominada por hombres, colaboró con Otto Hahn en el descubrimiento de la fisión nuclear, un avance revolucionario. Aunque no compartió el Premio Nobel por este logro, su contribución fue crucial para comprender la energía nuclear y la física de partículas. Su determinación y pasión por la ciencia han inspirado a generaciones de científicas. Lise Meitner es un símbolo perdurable de la perseverancia femenina y el impacto duradero que las mujeres pueden tener en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/lise-meitner.jpg",
+    "id": "george-maynard",
+    "name": "George Maynard",
+    "shortDescription": "Líder Scout y jefe de la tribu Woodcraft Indians",
+    "description": "George Maynard fue un líder Scout y jefe de la tribu Woodcraft Indians, una influencia en el desarrollo temprano del Movimiento Scout en los Estados Unidos.",
+    "imageUrl": "URL_DE_LA_IMAGEN_GEORGE",
     "facts": {
-      "yearOfBirth": "1878",
-      "yearOfDeath": "1968",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/lise-meitner-in-nuclear-physics-lab-in-19502c-retro/651196e6bbcb4009950e9955c2199760"
+      "yearOfBirth": 1876,
+      "placeOfBirth": "Estados Unidos",
+      "mainPosition": "Líder Scout y jefe de la tribu Woodcraft Indians",
+      "sexo": "Masculino"
     }
   },
   {
-    "id": "sau-lan-wu",
-    "name": "Sau Lan Wu",
-    "shortDescription": "Física de partículas, contribuyó a experimentos clave en física de alta energía.",
-    "description": "Física experimental sinoamericana, ha sido una fuerza motriz en la física de partículas. Destacó en experimentos en el CERN y lideró investigaciones cruciales, como el descubrimiento del quark c, que expandieron nuestro entendimiento de la estructura fundamental de la materia. Wu superó desafíos en una disciplina dominada por hombres y ha sido un faro de inspiración para científicas de todo el mundo. Sau Lan Wu es un ejemplo de excelencia científica y de cómo las mujeres pueden dejar huella en la investigación de vanguardia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sau-lan-wu.jpg",
+    "id": "olga-duggan",
+    "name": "Olga Duggan",
+    "shortDescription": "Defensora de las Guías Scouts",
+    "description": "Olga Duggan fue una defensora destacada de las Guías Scouts en el Reino Unido. Contribuyó a la promoción y desarrollo de las Guías Scouts en la región.",
+    "imageUrl": "URL_DE_LA_IMAGEN_OLGA",
     "facts": {
-      "yearOfBirth": "1940",
-      "birthPlace": "Hong Kong, China",
-      "mainField": "Física de Partículas"
-    },
-    "extraInfo": {
-      "imageSource": "https://repository.aip.org/islandora/object/nbla%3A315195"
+      "yearOfBirth": 1890,
+      "placeOfBirth": "Reino Unido",
+      "mainPosition": "Defensora de las Guías Scouts",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "jocelyn-bell-burnell",
-    "name": "Jocelyn Bell Burnell",
-    "shortDescription": "Astrónoma y astrofísica, co-descubridora de los púlsares.",
-    "description": "Astrofísica británica, es una figura extraordinaria en la ciencia. Durante su doctorado, hizo un descubrimiento revolucionario al detectar los primeros púlsares, estrellas de neutrones altamente magnetizadas que emiten pulsos regulares de radiación. A pesar de que su asesor recibió el Premio Nobel por este descubrimiento, Bell Burnell se ha convertido en un símbolo de perseverancia y contribución de las mujeres a la astronomía. Su carrera distinguida y su activismo en favor de la diversidad de género en la ciencia han inspirado a generaciones futuras de científicas. Jocelyn Bell Burnell es un ejemplo de valentía y excelencia científica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/jocelyn-bell-burnell.jpg",
+    "id": "john-alexander-s-smyth",
+    "name": "John Alexander S. Smyth",
+    "shortDescription": "Líder Scout en Sudáfrica",
+    "description": "John Alexander S. Smyth fue un líder destacado en el Movimiento Scout en Sudáfrica y desempeñó un papel importante en su promoción y desarrollo en la región.",
+    "imageUrl": "URL_DE_LA_IMAGEN_JOHN_ALEXANDER",
     "facts": {
-      "yearOfBirth": "1943",
-      "birthPlace": "Belfast, Reino Unido",
-      "mainField": "Astronomía, Astrofísica"
-    },
-    "extraInfo": {
-      "imageSource": "https://womeninscienceweadmire.icfo.eu/wiswa-2/jocelyn-bell/"
+      "yearOfBirth": 1895,
+      "placeOfBirth": "Sudáfrica",
+      "mainPosition": "Líder Scout en Sudáfrica",
+      "sexo": "Masculino"
     }
   },
   {
-    "id": "dorothy-crowfoot-hodgkin",
-    "name": "Dorothy Crowfoot Hodgkin",
-    "shortDescription": "Química, ganadora del Premio Nobel de Química.",
-    "description": "Química británica, es una figura icónica en la ciencia que superó las barreras de género de su época. Su trabajo revolucionario en la cristalografía de rayos X permitió determinar la estructura de importantes biomoléculas, como la penicilina, la vitamina B12 y la insulina. Fue galardonada con el Premio Nobel de Química en 1964, siendo la tercera mujer en recibir este prestigioso reconocimiento. Hodgkin no solo fue una científica excepcional, sino también una defensora de la igualdad de género en la ciencia, allanando el camino para futuras generaciones de científicas y dejando un legado duradero en la investigación y la equidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/dorothy-crowfoot-hodgkin.jpg",
+    "id": "madeleine-bader",
+    "name": "Madeleine Bader",
+    "shortDescription": "Pionera en el Movimiento Scout en el Reino Unido",
+    "description": "Madeleine Bader fue una pionera en el Movimiento Scout en el Reino Unido y se convirtió en la primera mujer scout de raza negra en obtener el rango de Reina Scout.",
+    "imageUrl": "URL_DE_LA_IMAGEN_MADELEINE",
     "facts": {
-      "yearOfBirth": "1910",
-      "yearOfDeath": "1994",
-      "birthPlace": "El Cairo, Egipto / Shipston-on-Stour, Reino Unido",
-      "mainField": "Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.some.ox.ac.uk/news/jan-royall-why-we-must-champion-dorothy-hodgkin-for-the-50-note/"
+      "yearOfBirth": 1915,
+      "placeOfBirth": "Reino Unido",
+      "mainPosition": "Pionera en el Movimiento Scout",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "marie-curie",
-    "name": "Marie Curie",
-    "shortDescription": "Física y química, ganadora de dos Premios Nobel.",
-    "description": "física y química de origen polaco y nacionalizada francesa, es una de las figuras más icónicas en la historia de la ciencia. Ganadora de dos premios Nobel (Física en 1903 y Química en 1911), Curie realizó investigaciones fundamentales sobre la radiactividad y el descubrimiento de los elementos radio y polonio. Su dedicación y valentía en la investigación científica, a pesar de los desafíos de la discriminación de género y los riesgos de la radiación, la convierten en un modelo a seguir para científicas de todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marie-curie.jpg",
+    "id": "jean-bjarnason",
+    "name": "Jean Bjarnason",
+    "shortDescription": "Primera mujer Jefa Scout Nacional en Islandia",
+    "description": "Jean Bjarnason fue la primera mujer en ocupar el cargo de Jefa Scout Nacional en Islandia y desempeñó un papel importante en el escultismo islandés.",
+    "imageUrl": "URL_DE_LA_IMAGEN_JEAN",
     "facts": {
-      "yearOfBirth": "1867",
-      "yearOfDeath": "1934",
-      "birthPlace": "Varsovia, Polonia",
-      "mainField": "Física y Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.historyextra.com/period/first-world-war/life-of-the-week-marie-curie/"
+      "yearOfBirth": 1922,
+      "placeOfBirth": "Islandia",
+      "mainPosition": "Primera mujer Jefa Scout Nacional en Islandia",
+      "sexo": "Femenino"
     }
   },
   {
-    "id": "marjory-stephenson",
-    "name": "Marjory Stephenson",
-    "shortDescription": "Microbióloga y bioquímica, investigó en enzimología.",
-    "description": "Bioquímica británica, brilló como científica en una época en la que las mujeres enfrentaban obstáculos muy significativos en la investigación científica. Su trabajo pionero en microbiología, enzimología y bioquímica contribuyó al entendimiento de procesos fundamentales en la vida. Fue una de las primeras mujeres en ser elegida miembro de la Royal Society, un reconocimiento a su destacada contribución a la ciencia. Además, fue una mentora y defensora de las mujeres en la ciencia, inspirando y allanando el camino para futuras generaciones.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjory-stephenson.jpg",
+    "id": "brian-ashton",
+    "name": "Brian Ashton",
+    "shortDescription": "Escultista y líder de la Asociación de Scouts de Kenia",
+    "description": "Brian Ashton es un escultista y líder de la Asociación de Scouts de Kenia. Ha desempeñado un papel importante en la promoción del escultismo en África.",
+    "imageUrl": "URL_DE_LA_IMAGEN_BRIAN",
     "facts": {
-      "yearOfBirth": "1885",
-      "yearOfDeath": "1948",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Microbiología, Bioquímica"
-    },
-    "extraInfo": {
-      "imageSource": "https://microbiologysociety.org/grants-prizes/all-prizes-and-competitions-/prize-lectures/marjory-stephenson-prize-lecture/marjory-stephenson-a-short-history.html"
+      "yearOfBirth": 1943,
+      "placeOfBirth": "Kenia",
+      "mainPosition": "Escultista y líder de la Asociación de Scouts de Kenia",
+      "sexo": "Masculino"
     }
   },
   {
-    "id": "rosalind-franklin",
-    "name": "Rosalind Franklin",
-    "shortDescription": "Química y cristalógrafa, contribuyó a la comprensión de la estructura del ADN.",
-    "description": "Química y cristalógrafa británica, destacó en un campo dominado por hombres y su contribución a la ciencia es innegable. Sus investigaciones pioneras en la cristalografía de rayos X fueron fundamentales para revelar la estructura del ADN en forma de doble hélice, un hito crucial en la biología molecular. A pesar de que su trabajo inicial fue subestimado, su determinación y habilidad científica allanaron el camino para futuros avances en genética y biología. Franklin es un ejemplo inspirador de cómo las mujeres pueden sobresalir en la ciencia, dejando un legado duradero en la investigación y la igualdad de género.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/rosalind-franklin.jpg",
+    "id": "juan-croce",
+    "name": "Juan Croce",
+    "shortDescription": "Líder Scout en América Latina",
+    "description": "Juan Croce fue un líder destacado en el Movimiento Scout en América Latina y desempeñó un papel importante en su promoción y desarrollo en la región.",
+    "imageUrl": "URL_DE_LA_IMAGEN_JUAN",
     "facts": {
-      "yearOfBirth": "1920",
-      "yearOfDeath": "1958",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Cristalografía"
-    },
-    "extraInfo": {
-      "imageSource": ""
+      "yearOfBirth": 1901,
+      "placeOfBirth": "Argentina",
+      "mainPosition": "Líder Scout en América Latina",
+      "sexo": "Masculino"
     }
   }
 ];

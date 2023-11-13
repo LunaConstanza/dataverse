@@ -2,10 +2,38 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Data Lovers</title>
+    <title>Data Scout</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <header>
+      <h1>Data Scout</h1>
+    </header>
+    <main>
+      <h2>Personajes históricos</h2>
+      <div class="selectors">
+        <div>
+          <label for="name">Orden Alfabético</label>
+          <select data-testid="select-sort" name="name" id="name">
+            <option value="asc">A - Z</option>
+            <option value="desc">Z - A</option>
+          </select>
+        </div>
+        <div>
+          <label for="sex">Filtrar por sexo</label>
+          <select data-testid="select-filter" name="sex" id="sex">
+            <option value="Femenino">Femenino</option>
+            <option value="Masculino">Masculino</option>
+          </select>
+        </div>
+        <button data-testid="button-clear" type="button" id="btnClear">Limpiar filtros</button>
+      </div>
+      <section id="root"></section>
+    </main>
+    <footer>
+      <p>Copyright &copy; 2023 - Luna González</p>
+    </footer>
     <script src="main.js" type="module"></script>
   </body>
 </html>
