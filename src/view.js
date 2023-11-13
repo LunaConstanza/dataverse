@@ -4,6 +4,7 @@ export const renderItems = (data) => {
     const card = document.createElement('li');
     card.setAttribute("itemscope","");
     card.setAttribute("itemtype", "characterScout")
+    card.classList.add("card")
     card.innerHTML += `
       <img src="${character.imageUrl}" alt="Fotografía de ${character.name}">
       <h2 itemprop="name">${character.name}</h2>

@@ -21,6 +21,13 @@
           </select>
         </div>
         <div>
+          <label for="year">Orden por Año</label>
+          <select data-testid="select-sort" name="year" id="year">
+            <option value="asc">Asc</option>
+            <option value="desc">Desc</option>
+          </select>
+        </div>
+        <div>
           <label for="sex">Filtrar por sexo</label>
           <select data-testid="select-filter" name="sex" id="sex">
             <option value="Femenino">Femenino</option>
@@ -28,8 +35,20 @@
           </select>
         </div>
         <button data-testid="button-clear" type="button" id="btnClear">Limpiar filtros</button>
+        <a href="#compute">Estadística</a>
       </div>
       <section id="root"></section>
+      <section id="compute">
+        <h2>Estádistica de personas nacidas entre 1800 y 1900</h2>
+        <table>
+          <tr>
+            <th>&lt 1899</th>
+            <th>&gt 1900</th>
+          </tr>
+          <tr id="computeStats">
+          </tr>
+        </table>
+      </section>
     </main>
     <footer>
       <p>Copyright &copy; 2023 - Luna González</p>
